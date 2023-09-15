@@ -1,4 +1,10 @@
-. Initialize git repository and add remote | origin
-. Create virtual environment: pipenv --python 3.8.13
-. Install pytest: pipenv install pytest --dev
-. Execute shell: pipenv shell
+# Pytest Demo:
+
+#### This demo lab provides examples to facilitate a discussion on test driven development
+
+### Discussion Topics:
+
+- installing PyTest
+- creating tests
+- benefits of test driven development
+- building object methods as designing an interface to the data
